@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <title>Personal Browser</title>
+	<style>
+		@import url("PersonalBrowser.css");
+	</Style>
+ </head>
+ <body bgcolor="black">
+ <div id="all" style="padding-right: 400px">
+	<h4><div class="Intro">
+			<span>R</span>
+			<span>a</span>
+			<span>m</span>
+			<span>e</span>
+			<span>s</span>
+			<span>h</span>
+			<span> </span>
+			<span>K</span>
+			<span>u</span>
+			<span>m</span>
+			<span>a</span>
+			<span>r</span>
+	</div></h4><br>
+	<div id="naukriDiv">
+	<img src="F:\soft\Personal Browser Home Page\attachments\PicsArt_05-08-11.59.48.png" height="100px" width="100px" style="padding-bottom: 14px; padding-left: 33px; padding-top:50px">
+	<a href="https://www.naukri.com/mnjuser/homepage" class="naukariClass" style="border : 1px solid; padding:10px 36px; border-radius:30px; font-family:Georgia " target="_blank">
+	Naukari.com
+		</a></div>
+		<div id="gaanaDiv">
+	<img src="F:\soft\Personal Browser Home Page\attachments\PicsArt_05-09-12.15.50.png" height="100px" width="100px" style="padding-bottom: 14px; padding-left: 40px; padding-top:50px">
+	<a href="https://gaana.com/" class="gaanaClass" style="border : 1px solid; padding:10px 46px; border-radius:30px; font-family:Georgia" target="_blank">
+	Gaana.com
+		</a></div>
+		<div id="youtubeDiv">
+	<img src="F:\soft\Personal Browser Home Page\attachments\PicsArt_05-08-11.56.08.png" height="100px" width="100px" style="padding-bottom: 14px; padding-left: 41px; padding-top:50px">
+	<a href="https://www.youtube.com/" class="youtubeClass" style="border : 1px solid; padding:10px 55px; border-radius:30px; font-family:Georgia" target="_blank">
+	YouTube
+		</a></div>
+		<div id="gmailDiv">
+	<img src="F:\soft\Personal Browser Home Page\attachments\PicsArt_05-08-11.57.58.png" height="100px" width="100px" style="padding-bottom: 14px; padding-left: 41px; padding-top:50px">
+	<a href="https://mail.google.com/mail/u/1/#inbox" class="gmailClass" style="border : 1px solid; padding:10px 66px; border-radius:30px; font-family:Georgia" target="_blank">
+	Gmail
+		</a></div>
+		<div id="facebookDiv">
+	<img src="F:\soft\Personal Browser Home Page\attachments\PicsArt_05-09-12.03.11.png" height="100px" width="100px" style="padding-bottom: 14px; padding-left: 41px; padding-top:50px">
+	<a href="https://www.facebook.com/" class="facebookClass" style="border : 1px solid; padding:10px 56px; border-radius:30px; font-family:Georgia" target="_blank">
+	Facebook
+		</a></div>
+		<div id="whatsappDiv">
+	<img src="F:\soft\Personal Browser Home Page\attachments\PicsArt_05-08-11.54.05.png" height="100px" width="100px" style="padding-bottom: 14px; padding-left: 45px; padding-top:20px">
+	<a href="https://web.whatsapp.com/" class="whatsappClass" style="border : 1px solid; padding:10px 55px; border-radius:30px; font-family:Georgia" target="_blank">
+	WhatsApp
+		</a></div>
+		<div id="earthDiv">
+	<img src="F:\soft\Personal Browser Home Page\attachments\PicsArt_05-09-12.04.51.png" height="100px" width="100px" style="padding-bottom: 14px; padding-left: 45px; padding-top:20px">
+	<a href="https://earth.google.com/web/" class="earthClass" style="border : 1px solid; padding:10px 50px; border-radius:30px; font-family:Georgia" target="_blank">
+	GoogleEarth
+		</a></div>
+		<div id="geeksDiv">
+	<img src="F:\soft\Personal Browser Home Page\attachments\PicsArt_05-09-12.06.46.png" height="100px" width="100px" style="padding-bottom: 14px; padding-left: 45px; padding-top:20px">
+	<a href="https://www.geeksforgeeks.org/java/" class="geeksClass" style="border : 1px solid; padding:10px 41px; border-radius:30px; font-family:Georgia" target="_blank">
+	GeeksForGeeks
+		</a></div>
+		<div id="telegramDiv">
+	<img src="F:\soft\Personal Browser Home Page\attachments\PicsArt_05-09-12.08.59.png" height="100px" width="100px" style="padding-bottom: 14px; padding-left: 45px; padding-top:20px">
+	<a href="https://web.telegram.org/#/im" class="telegramClass" style="border : 1px solid; padding:10px 56px; border-radius:30px; font-family:Georgia" target="_blank">
+	Telegram
+		</a></div>
+		<div id="hackerearthDiv">
+	<img src="F:\soft\Personal Browser Home Page\attachments\PicsArt_05-09-12.10.48.png" height="100px" width="100px" style="padding-bottom: 14px; padding-left: 45px; padding-top:20px">
+	<a href="https://www.hackerearth.com/challenges/" class="hackerearthClass" style="border : 1px solid; padding:10px 50px; border-radius:30px; font-family:Georgia" target="_blank">
+	HackerEarth
+		</a></div>
+		<div id="hackerrankDiv">
+	<img src="F:\soft\Personal Browser Home Page\attachments\PicsArt_05-09-12.13.17.png" height="100px" width="100px" style="padding-bottom: 14px; padding-left: 36px; padding-top:20px">
+	<a href="https://www.hackerrank.com/access-account/?h_r=home_v2&h_l=header" class="hackerrankClass" style="border : 1px solid; padding:10px 43px; border-radius:30px; font-family:Georgia" target="_blank">
+	HackerRank
+		</a></div>
+		<div id="mapDiv">
+	<img src="F:\soft\Personal Browser Home Page\attachments\PicsArt_05-09-12.18.40.png" height="100px" width="100px" style="padding-bottom: 14px; padding-left: 33px; padding-top:20px">
+	<a href="https://www.google.com/maps" class="mapClass" style="border : 1px solid; padding:10px 50px; border-radius:30px; font-family:Georgia" target="_blank">
+	GoogleMap
+		</a></div>
+		<div id="driveDiv">
+	<img src="F:\soft\Personal Browser Home Page\attachments\.png" height="100px" width="100px" style="padding-bottom: 14px; padding-left: 33px; padding-top:20px">
+	<a href="https://www.google.com/maps" class="driveClass" style="border : 1px solid; padding:10px 44px; border-radius:30px; font-family:Georgia" target="_blank">
+	GoogleDrive
+		</a></div>
+		<div id="twitterDiv">
+	<img src="F:\soft\Personal Browser Home Page\attachments\PicsArt_05-08-11.52.22.png" height="100px" width="100px" style="padding-bottom: 14px; padding-left: 40px; padding-top:20px">
+	<a href="https://twitter.com/login" class="twitterClass" style="border : 1px solid; padding:10px 61px; border-radius:30px; font-family:Georgia" target="_blank">
+	Twitter
+		</a></div>
+		</div>
+ </body>
+</html>

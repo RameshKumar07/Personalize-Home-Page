@@ -1,0 +1,412 @@
+*
+{
+	margin:0;
+	padding:0;
+	font-family:Comic Sans MS; 
+	
+}
+#all
+{
+position:relative;
+}
+body
+{
+	display:flex;
+	background:#000;
+}
+.Intro
+{
+	position:relative;
+	-webkit-box-reflect:below -12px linear-gradient(transparent, rgba(0,0,0,0.2));
+	text-align:center;
+	padding-left:364px;
+	
+}
+.Intro span
+{
+	position:relative;
+	display:inline-block;
+	color:#fff;
+	font-size:4em;
+	animation: animate 2s linear infinite;
+	animation-delay:calc(0.1s * var(--i));
+}
+@keyframes animate 
+{
+	0%,100px
+	{
+		color:#fff;
+		filter:blur(2px);
+	}
+	5%,95px
+	{
+		color:#fff;
+		filter:blur(0px);
+	}
+	
+}
+
+#naukriDiv
+{
+	font-family:consolas;
+	box-sizing:border-box;
+	position:absolute;
+	height: 201px;
+    width: 173px;
+	
+}
+
+#naukriDiv > a
+{
+text-decoration:none;
+color:	#00FFFF;
+}
+#naukriDiv > a:hover
+{
+	color:white;
+	
+	background:	#00FFFF;
+	box-shadow:0 0 20px #00FFFF;
+			   0 0 50px #00FFFF;
+			   0 0 100px #00FFFF;
+			   0 0 400px #00FFFF;
+}
+#gaanaDiv
+{
+	font-family:consolas;
+	box-sizing:border-box;
+	position:absolute;
+	height: 48px;
+    width: 173px;
+	padding-left: 273px;
+	
+}
+
+#gaanaDiv > a
+{
+text-decoration:none;
+color:	#00FFFF;
+}
+#gaanaDiv > a:hover
+{
+	color:white;
+	
+	background:	#00FFFF;
+	box-shadow:0 0 20px #00FFFF;
+			   0 0 50px #00FFFF;
+			   0 0 100px #00FFFF;
+			   0 0 400px #00FFFF;
+}
+#youtubeDiv
+{
+	font-family:consolas;
+	box-sizing:border-box;
+	position:absolute;
+	height: 48px;
+    width: 173px;
+	padding-left: 567px;
+	
+}
+
+#youtubeDiv > a
+{
+text-decoration:none;
+color:	#00FFFF;
+}
+#youtubeDiv > a:hover
+{
+	color:white;
+	
+	background:	#00FFFF;
+	box-shadow:0 0 20px #00FFFF;
+			   0 0 50px #00FFFF;
+			   0 0 100px #00FFFF;
+			   0 0 400px #00FFFF;
+}
+
+#gmailDiv
+{
+	font-family:consolas;
+	box-sizing:border-box;
+	position:absolute;
+	height: 48px;
+    width: 173px;
+	padding-left: 850px;
+	
+}
+
+#gmailDiv > a
+{
+text-decoration:none;
+color:	#00FFFF;
+}
+#gmailDiv > a:hover
+{
+	color:white;
+	
+	background:	#00FFFF;
+	box-shadow:0 0 20px #00FFFF;
+			   0 0 50px #00FFFF;
+			   0 0 100px #00FFFF;
+			   0 0 400px #00FFFF;
+}
+#facebookDiv
+{
+	font-family:consolas;
+	box-sizing:border-box;
+	position:absolute;
+	height: 48px;
+    width: 173px;
+	padding-left: 1155px;
+	
+}
+
+#facebookDiv > a
+{
+text-decoration:none;
+color:	#00FFFF;
+}
+#facebookDiv > a:hover
+{
+	color:white;
+	
+	background:	#00FFFF;
+	box-shadow:0 0 20px #00FFFF;
+			   0 0 50px #00FFFF;
+			   0 0 100px #00FFFF;
+			   0 0 400px #00FFFF;
+}
+#whatsappDiv
+{
+	font-family:consolas;
+	box-sizing:border-box;
+	position:absolute;
+	height: 48px;
+    width: 173px;
+	padding-left: 119px;
+	padding-top:172px;
+}
+
+#whatsappDiv > a
+{
+text-decoration:none;
+color:	#00FFFF;
+}
+#whatsappDiv > a:hover
+{
+	color:white;
+	
+	background:	#00FFFF;
+	box-shadow:0 0 20px #00FFFF;
+			   0 0 50px #00FFFF;
+			   0 0 100px #00FFFF;
+			   0 0 400px #00FFFF;
+}
+#earthDiv
+{
+	font-family:consolas;
+	box-sizing:border-box;
+	position:absolute;
+	height: 48px;
+    width: 173px;
+	padding-left: 411px;
+	padding-top:172px;
+}
+
+#earthDiv > a
+{
+text-decoration:none;
+color:	#00FFFF;
+}
+#earthDiv > a:hover
+{
+	color:white;
+	
+	background:	#00FFFF;
+	box-shadow:0 0 20px #00FFFF;
+			   0 0 50px #00FFFF;
+			   0 0 100px #00FFFF;
+			   0 0 400px #00FFFF;
+}
+#geeksDiv
+{
+	font-family:consolas;
+	box-sizing:border-box;
+	position:absolute;
+	height: 48px;
+    width: 173px;
+	padding-left: 701px;
+	padding-top:172px;
+}
+
+#geeksDiv > a
+{
+text-decoration:none;
+color:	#00FFFF;
+}
+#geeksDiv > a:hover
+{
+	color:white;
+	
+	background:	#00FFFF;
+	box-shadow:0 0 20px #00FFFF;
+			   0 0 50px #00FFFF;
+			   0 0 100px #00FFFF;
+			   0 0 400px #00FFFF;
+}
+#telegramDiv
+{
+	font-family:consolas;
+	box-sizing:border-box;
+	position:absolute;
+	height: 48px;
+    width: 173px;
+	padding-left: 997px;
+	padding-top:172px;
+}
+
+#telegramDiv > a
+{
+text-decoration:none;
+color:	#00FFFF;
+}
+#telegramDiv > a:hover
+{
+	color:white;
+	
+	background:	#00FFFF;
+	box-shadow:0 0 20px #00FFFF;
+			   0 0 50px #00FFFF;
+			   0 0 100px #00FFFF;
+			   0 0 400px #00FFFF;
+}
+#hackerearthDiv
+{
+	font-family:consolas;
+	box-sizing:border-box;
+	position:absolute;
+	height: 48px;
+    width: 173px;
+	padding-left: 0px;
+	padding-top:322px;
+}
+
+#hackerearthDiv > a
+{
+text-decoration:none;
+color:	#00FFFF;
+}
+#hackerearthDiv > a:hover
+{
+	color:white;
+	
+	background:	#00FFFF;
+	box-shadow:0 0 20px #00FFFF;
+			   0 0 50px #00FFFF;
+			   0 0 100px #00FFFF;
+			   0 0 400px #00FFFF;
+}
+#hackerrankDiv
+{
+	font-family:consolas;
+	box-sizing:border-box;
+	position:absolute;
+	height: 48px;
+    width: 173px;
+	padding-left: 277px;
+	padding-top:322px;
+}
+
+#hackerrankDiv > a
+{
+text-decoration:none;
+color:	#00FFFF;
+}
+#hackerrankDiv > a:hover
+{
+	color:white;
+	
+	background:	#00FFFF;
+	box-shadow:0 0 20px #00FFFF;
+			   0 0 50px #00FFFF;
+			   0 0 100px #00FFFF;
+			   0 0 400px #00FFFF;
+}
+#mapDiv
+{
+	font-family:consolas;
+	box-sizing:border-box;
+	position:absolute;
+	height: 48px;
+    width: 173px;
+	padding-left: 566px;
+	padding-top:322px;
+}
+
+#mapDiv > a
+{
+text-decoration:none;
+color:	#00FFFF;
+}
+#mapDiv > a:hover
+{
+	color:white;
+	
+	background:	#00FFFF;
+	box-shadow:0 0 20px #00FFFF;
+			   0 0 50px #00FFFF;
+			   0 0 100px #00FFFF;
+			   0 0 400px #00FFFF;
+}
+#driveDiv
+{
+	font-family:consolas;
+	box-sizing:border-box;
+	position:absolute;
+	height: 48px;
+    width: 173px;
+	padding-left: 860px;
+	padding-top:322px;
+}
+
+#driveDiv > a
+{
+text-decoration:none;
+color:	#00FFFF;
+}
+#driveDiv > a:hover
+{
+	color:white;
+	
+	background:	#00FFFF;
+	box-shadow:0 0 20px #00FFFF;
+			   0 0 50px #00FFFF;
+			   0 0 100px #00FFFF;
+			   0 0 400px #00FFFF;
+}
+#twitterDiv
+{
+	font-family:consolas;
+	box-sizing:border-box;
+	position:absolute;
+	height: 48px;
+    width: 173px;
+	padding-left: 1156px;
+	padding-top:322px;
+}
+
+#twitterDiv > a
+{
+text-decoration:none;
+color:	#00FFFF;
+}
+#twitterDiv > a:hover
+{
+	color:white;
+	
+	background:	#00FFFF;
+	box-shadow:0 0 20px #00FFFF;
+			   0 0 50px #00FFFF;
+			   0 0 100px #00FFFF;
+			   0 0 400px #00FFFF;
+}
